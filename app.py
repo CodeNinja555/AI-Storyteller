@@ -1,15 +1,3 @@
-!pip install yt_dlp
-!pip install streamlit
-!pip install torch torchvision torchaudio
-!pip install transformers
-!pip install streamlit
-!pip install ffmpeg-python
-!pip install streamlit torch transformers gTTS fpdf diffusers accelerate safetensors
-!pip install yt_dlp
-
-
-
-
 import os
 import streamlit as st
 from transformers import pipeline
